@@ -6,8 +6,7 @@
 
 int main()
 {
-   int num;
-    int count = 0;
+   int num,count=0;
 
     /* Input number from user */
     printf("Enter any number: ");
@@ -21,9 +20,9 @@ int main()
 
         /* Remove last digit of 'num' */
         num /= 10;
-    } while(  != 0);
+    } while(num!= 0);
 
-    printf("Total digits: %d", );
+    printf("Total digits: %d",count );
 
     return 0;
 }
