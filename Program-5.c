@@ -10,10 +10,10 @@
 int main()
 {
    int a[10],i,n,sum;
-   printf("Enter number of elements in array and the array elements");
+  // printf("Enter number of elements in array and the array elements");
    scanf("%d", &n);
  
-  printf("Enter %d elements\n", n);
+ // printf("Enter %d elements\n", n);
  
    for (i = 0; i < n; i++)
    {
