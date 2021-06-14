@@ -9,7 +9,7 @@
 int main()
 {
    int a[10],i,n,sum;
-   printf("Enter number of elements in array and the array elements");
+   printf("");
    scanf("%d", &n);
  
   // printf("Enter %d elements\n", n);
