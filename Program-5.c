@@ -8,7 +8,7 @@
 #include <stdio.h>
 int main()
 {
-   int a[10],n,i,sum;
+   int a[10],n,i,sum=0;
    printf(" ");
    scanf("%d", &n);
  
